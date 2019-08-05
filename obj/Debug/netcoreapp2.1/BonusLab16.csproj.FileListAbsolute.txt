@@ -1,0 +1,11 @@
+C:\Users\Eliza\source\repos\BonusLab16\BonusLab16\bin\Debug\netcoreapp2.1\BonusLab16.deps.json
+C:\Users\Eliza\source\repos\BonusLab16\BonusLab16\bin\Debug\netcoreapp2.1\BonusLab16.runtimeconfig.json
+C:\Users\Eliza\source\repos\BonusLab16\BonusLab16\bin\Debug\netcoreapp2.1\BonusLab16.runtimeconfig.dev.json
+C:\Users\Eliza\source\repos\BonusLab16\BonusLab16\bin\Debug\netcoreapp2.1\BonusLab16.dll
+C:\Users\Eliza\source\repos\BonusLab16\BonusLab16\bin\Debug\netcoreapp2.1\BonusLab16.pdb
+C:\Users\Eliza\source\repos\BonusLab16\BonusLab16\obj\Debug\netcoreapp2.1\BonusLab16.csprojAssemblyReference.cache
+C:\Users\Eliza\source\repos\BonusLab16\BonusLab16\obj\Debug\netcoreapp2.1\BonusLab16.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\source\repos\BonusLab16\BonusLab16\obj\Debug\netcoreapp2.1\BonusLab16.AssemblyInfoInputs.cache
+C:\Users\Eliza\source\repos\BonusLab16\BonusLab16\obj\Debug\netcoreapp2.1\BonusLab16.AssemblyInfo.cs
+C:\Users\Eliza\source\repos\BonusLab16\BonusLab16\obj\Debug\netcoreapp2.1\BonusLab16.dll
+C:\Users\Eliza\source\repos\BonusLab16\BonusLab16\obj\Debug\netcoreapp2.1\BonusLab16.pdb
